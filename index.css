@@ -1,0 +1,37 @@
+html,body{
+   
+    height: 100%;
+    font-family: 'MuseoModerno', cursive, 'sans serif' ;
+    color: #181717ab;
+}
+
+.jumbotron {
+    background: none
+}
+
+.parallax{
+    background-image: url(2.jpg);
+
+  /* Set a specific height */
+  height: 100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.secbg{
+    background-color: ivory;
+    height: 100%;
+}
+
+.tagline1{
+    padding: 10%;
+}
+.tagline{
+ font-size: 1.5rem;
+ font-weight: 100;
+ margin-bottom: auto;
+}
+

@@ -1,0 +1,47 @@
+html,body{
+   
+    height: 100%;
+    font-family: 'MuseoModerno', cursive, 'sans serif' ;
+    color: #181717ab;
+}
+
+.jumbotron {
+    background: none
+}
+
+.parallax{
+    background-image: url(14.jpg);
+
+  /* Set a specific height */
+  height: 100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #120e0ee8;
+}
+
+.secbg{
+    background-color: ivory;
+    height: 100%;
+}
+
+.tagline1{
+    padding: 5%;
+}
+.tagline{
+ font-size: 1.75rem;
+ font-weight: 200;
+ margin-bottom: auto;
+ color: #000000;
+ /* margin-top: 120px;
+ margin-right:5px;
+ margin-left: 5px; */
+ 
+}
+
+.display-3{
+    font-size: 3.5rem;
+}
+
